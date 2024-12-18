@@ -24,6 +24,12 @@ Custo Total e Viabilidade Econômica: Esse pilar finaliza a análise econômica,
 3) cd "nome-do-projeto"
 4) npx expo start ou npm start ou expo start ou npm run android
 
+# Importante
+
+Para a utilização correta é preciso de um arquivo .env configurado corretamente na raiz do projeto seguindo o padrão abaixo
+
+
+
 # Diagrama de casos de uso 
 
 ![final degree project](https://github.com/user-attachments/assets/33f3d4cd-e3ae-48e9-8257-3d582c01b5e0)
