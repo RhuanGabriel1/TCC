@@ -29,7 +29,8 @@ Custo Total e Viabilidade Econômica: Esse pilar finaliza a análise econômica,
 Para a utilização correta é preciso de um arquivo .env configurado corretamente na raiz do projeto seguindo o padrão abaixo
 
 
-![image](https://github.com/user-attachments/assets/e1f9f5a5-8c45-404f-be35-df99956fb073)
+![1](https://github.com/user-attachments/assets/e03ce42f-8a59-4ca5-98f0-21f8105b71d1)
+
 
 
 # Diagrama de casos de uso 
