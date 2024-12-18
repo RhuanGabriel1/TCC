@@ -1,0 +1,20 @@
+Nome: Rhuan Gabriel de Oliveira Martins
+
+Título: DESENVOLVIMENTO DE APLICAÇÃO MÓVEL PARA VERIFICAÇÃO
+DE CUSTOS E VIABILIZAÇÃO ECONÔMICA EM PRODUÇÕES
+AGRÍCOLAS
+
+Resumo: A agricultura familiar é uma das mais antigas atividades do mundo e, provavelmente,
+a mais importante para o ser humano, representando um ponto de mudança em
+nossa evolução. Mesmo nos dias de hoje, a agricultura familiar mantém sua
+importância, principalmente no abastecimento de alimentos nos mercados regionais
+e locais. No entanto, grande parte dos agricultores familiares se encontra em uma
+situação crítica, com baixa inserção nos mercados internacionais e enfrentando
+problemas sociais há décadas, na maioria das vezes, vivendo com menos de um
+salário mínimo. Para tanto, o objetivo do presente trabalho foi o desenvolvimento de
+uma aplicação móvel para auxiliar na avaliação econômica das produções agrícolas
+dessa fatia da sociedade.
+
+Orientador: André Luís Bordignon
+
+Mês/Ano: dezembro de 2024
